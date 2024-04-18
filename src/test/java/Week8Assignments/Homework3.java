@@ -1,4 +1,4 @@
-package Week8;
+package Week8Assignments;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
